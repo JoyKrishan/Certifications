@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *This repository contains all the certificates I earned*
 
 * *To check all my projects, please visit my **Course_Project** and **Undergraduate Project** repos.*
@@ -64,3 +65,7 @@ Other Courses
 
 
 
+=======
+# Certifications
+Repository containing all the certifications earned so far.
+>>>>>>> c8403a6d60b0bb353a7eb96fb13e9480966f93e7
