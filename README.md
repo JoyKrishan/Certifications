@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *This repository contains all the certificates I earned*
 
 * *To check all my projects, please visit my **Course_Project** and **Undergraduate Project** repos.*
@@ -59,13 +58,3 @@ Other Courses
 * [JS.0x: JavaScript Introduction](https://courses.edx.org/certificates/c5725f552b6c4dbda040357e9e9cb13a)
 
 
-
-
-
-
-
-
-=======
-# Certifications
-Repository containing all the certifications earned so far.
->>>>>>> c8403a6d60b0bb353a7eb96fb13e9480966f93e7
