@@ -49,11 +49,11 @@ ___
 
 Deep Learning Specialization (*5 course specialization*)- **On Progress**
 ___
-* [x] [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7GXHVBJR7BV7) 
-* [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/52RELUKKWT2Z) [x]
-* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/M292FGAUQ2L5) [x]
-* [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/LKVNJYJUY8YT) [x]
-* Sequence Models []
+* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7GXHVBJR7BV7) 
+* [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/52RELUKKWT2Z) 
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/M292FGAUQ2L5)
+* [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/LKVNJYJUY8YT)
+* Sequence Models 
 
 Other Courses
 ___
