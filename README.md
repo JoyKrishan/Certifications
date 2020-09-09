@@ -4,7 +4,8 @@
 
 * *You can also check my **Undergraduate Thesis Project** repo.*
 
-# Specializations and Certificates
+
+# Specializations and Certificates :mortar_board:
 
 [Google IT Automation with Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HMDHC82TCBAR) (*6 course specialization*)
 
