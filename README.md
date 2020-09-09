@@ -7,9 +7,9 @@
 
 # Specializations and Certificates :mortar_board:
 
-[Google IT Automation with Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HMDHC82TCBAR) (*6 course specialization*)
+[**Google IT Automation with Python Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/HMDHC82TCBAR) (*6 course specialization*)
 
-[**Click here to check my badge issued by Google**](https://www.youracclaim.com/badges/43df27b5-fa44-4562-89ce-74cb0722ace5) 
+[**Click here**](https://www.youracclaim.com/badges/43df27b5-fa44-4562-89ce-74cb0722ace5) to check my badge issued by Google
 
 * [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/EU6WVG4P3REH)  
 * [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/VTQ28BMV6HAG) 
@@ -18,7 +18,7 @@
 * [Configuration Management and the Cloud](https://www.coursera.org/account/accomplishments/certificate/PN7EME5DZ8TH)
 * [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/QLNWTVJEKBRT)
 ___
-[Django for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NQ3S8GPPD35Q) (*4 course specialization*)
+[**Django for Everybody Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/NQ3S8GPPD35Q) (*4 course specialization*)
 
 * [Building Web Applications in Django](https://www.coursera.org/account/accomplishments/certificate/6BFKFHVSKEXH)
 * [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/certificate/2Y6RQBE8JEQ9)
