@@ -26,7 +26,7 @@ ___
 * [Using JavaScript, JQuery, and JSON in Django](https://www.coursera.org/account/accomplishments/certificate/P62BCXRP6J62)
 
 ___
-[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KXEQYMS7C2LN)(*5 course specialization*)
+[**Python for Everybody Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/KXEQYMS7C2LN)(*5 course specialization*)
 
 * [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/U6PVMMVGGB4H)
 * [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/D4MVMVWCPYGX)
@@ -35,7 +35,7 @@ ___
 * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DSQR6UR32QKQ) 
 
 ___
-[Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/92G64MQVRC23) (*5 course specialization*)
+[**Python 3 Programming**](https://www.coursera.org/account/accomplishments/specialization/certificate/92G64MQVRC23) (*5 course specialization*)
 
 * [Python Basics](https://www.coursera.org/account/accomplishments/certificate/XBCT6GZJQMKZ)
 * [Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/certificate/Y8G74MSSDY2A)
@@ -44,7 +44,7 @@ ___
 * [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/account/accomplishments/certificate/M5SL9FKKJJW7) 
 
 ___
-[Web Applications for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2PXKPRF52844) (*4 course specialization*)
+[**Web Applications for Everybody Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/2PXKPRF52844) (*4 course specialization*)
 
 * [Building Web Applications in PHP](https://www.coursera.org/account/accomplishments/certificate/NHNKC3PEM9MW)
 * [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/UGSDKECGQ4ZY) 
@@ -52,7 +52,7 @@ ___
 * [JavaScript, jQuery, and JSON](https://www.coursera.org/account/accomplishments/verify/EGM3EZCG73GD) 
 
 ___
-Deep Learning Specialization (*5 course specialization*)- **On Progress**
+**Deep Learning Specialization** (*5 course specialization*)- **On Progress**
 
 * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7GXHVBJR7BV7) 
 * [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/52RELUKKWT2Z) 
@@ -61,7 +61,7 @@ Deep Learning Specialization (*5 course specialization*)- **On Progress**
 * Sequence Models 
 
 ___
-Other Courses
+**Other Courses**
 
 * [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/5CQD3RC85EAN)
 * [Object Oriented Programming in Java](https://www.coursera.org/account/accomplishments/certificate/YNUB9ZS2W5WD) 
