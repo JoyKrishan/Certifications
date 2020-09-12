@@ -1,8 +1,8 @@
 *This repository contains all the certificates I earned*
 
-* *To check all my projects, please visit my **Course_Project** and **Undergraduate Project** repos.*
+* *To check all my projects, please visit my **[Course_Project](https://github.com/JoyKrishan/Joy-s_Course_Projects)** and **[Undergraduate Project](https://github.com/JoyKrishan/Undergraduate-Projects)** repos.*
 
-* *You can also check my **Undergraduate Thesis Project** repo.*
+* *You can also check my **[Undergraduate Thesis Project](https://github.com/JoyKrishan/Classifying-Audio-Signal-Using-Different-Spectra-Features)** repo.*
 
 
 # Specializations and Certificates :mortar_board:
