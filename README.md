@@ -52,13 +52,21 @@ ___
 * [JavaScript, jQuery, and JSON](https://www.coursera.org/account/accomplishments/verify/EGM3EZCG73GD) 
 
 ___
-**Deep Learning Specialization** (*5 course specialization*)- **On Progress**
+[**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/RV2LFXKVEKZ5) (*5 course specialization*)
 
 * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/7GXHVBJR7BV7) 
 * [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/52RELUKKWT2Z) 
 * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/M292FGAUQ2L5)
 * [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/LKVNJYJUY8YT)
-* Sequence Models 
+* [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/T52ALETN5E8P) 
+
+___
+[**DeepLearning.AI TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/UABZ3HJZK5CA) (*4 course specialization)
+
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/5PVXEA46U2VP)
+* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MEZ4EUFCMVNZ)
+* [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/6ZA3AA4CR3MA)
+* [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/2D6MXH4P76NR)
 
 ___
 **Other Courses**
