@@ -61,7 +61,7 @@ ___
 * [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/T52ALETN5E8P) 
 
 ___
-[**DeepLearning.AI TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/UABZ3HJZK5CA) (*4 course specialization)
+[**DeepLearning.AI TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/UABZ3HJZK5CA) (*4 course specialization*)
 
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/5PVXEA46U2VP)
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MEZ4EUFCMVNZ)
