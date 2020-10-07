@@ -69,6 +69,13 @@ ___
 * [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/2D6MXH4P76NR)
 
 ___
+**Java Programming and Software Engineering Fundamentals**
+
+* [Java Programming: Solving Problems with Software](https://www.coursera.org/account/accomplishments/certificate/PQ5LDR7968PN)
+* [Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/account/accomplishments/certificate/ZETYWXAYMNTV)
+* [Java Programming: Principles of Software Design](https://www.coursera.org/account/accomplishments/certificate/XRDXG2K8LHCQ)
+
+___
 **Other Courses**
 
 * [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/5CQD3RC85EAN)
